@@ -1,8 +1,13 @@
-# React + Vite
+# Recipe Finder webApp | Reactjs, Node.js, Tailwind CSS, Daisy UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  - Developed a user-friendly web application that allows users to search for healthy and tasty recipes using the Edamam
+ API.
+ - Provided recipe information, links to YouTube video tutorials, and functionality to mark and unmark favorite recipes for
+ enhanced user experience.
+ - Implemented responsive design using Tailwind CSS and Daisy UI, ensuring compatibility across various devices
 
-Currently, two official plugins are available:
+<br/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+# Home Page of Application
+![Home Page](https://github.com/user-attachments/assets/a1ee1249-b733-44a7-8a37-b956b82042d0)
